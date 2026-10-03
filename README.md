@@ -33,6 +33,15 @@ Account Aggregation
     ↓
 Streamlit Sales Intelligence UI
 
+That is three backticks.
+
+### Step 3: save
+
+Press:
+
+```
+Control + O
+
 Data Processing
 Log Cleaning
 The raw weblogs contain both human and automated traffic.
